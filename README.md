@@ -21,3 +21,13 @@ Below are the screenshots of the score for each of the predictions:
 
 # RANDOM FOREST CLASSIFIER ALGORITHM SCORE
 ![Kaggle Score for Random Forest Classifier](FOREST_PREDICTION_SCORE.png)
+
+# WHAT NEXT...
+Other algorithms can be used to predict like the GRADIENT BOOSTING algorithms like LGB and XGB.
+
+Also a better EDA, Preprocessing and Feature Engineering can be carried out on the dataset to select best attributes.
+
+# CONCLUSION
+The scope of this project was just to guide absolute beginners in the basic steps and workflow of Machine Learning.
+
+Please go on GOOGLE and read on Machine Learning...One cannot get KNOWLEDGE without SEEKING it FIRST
