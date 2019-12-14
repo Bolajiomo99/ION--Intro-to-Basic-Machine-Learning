@@ -11,9 +11,13 @@ Begin the tutorial in this order:
 1) SIMPLE EDA  AND PREPROCESSING FOR THE TITANIC DATASET.ipynb or .pdf
 2) Simple Basic Modelling.ipynb or .pdf
 # AFTER SUBMISSION
-Below are the screenshoots of the score for each of the predictions
-![Test Image 1](3DTest.png)
+Below are the screenshots of the score for each of the predictions:
 
-![Test Image 2]("3DTest.png")
+# LOGISTIC REGRESSION ALGORITHM SCORE
+![Kaggle Score for logistic Regression](LINEAR_PREDICTION_SCORE.png)
 
-![Test Image 3](/3DTest.png)
+# DECISION TREE CLASSIFIER ALGORITHM SCORE
+![Kaggle Score for DecisionTreeClassifer](TREE_PREDICTION_SCORE.png)
+
+# RANDOM FOREST CLASSIFIER ALGORITHM SCORE
+![Kaggle Score for Random Forest Classifier](FOREST_PREDICTION_SCORE.png)
